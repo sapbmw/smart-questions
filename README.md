@@ -1,6 +1,7 @@
 # smart-questions
 How To Ask Questions The Smart Way (Eric Steven Raymond)
 
+URL: http://www.catb.org/~esr/faqs/smart-questions.html
 
 How To Ask Questions The Smart Way
 
